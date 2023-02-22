@@ -1,0 +1,22 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "app return weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShattsIllia/weather-cli.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Shatts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShattsIllia/weather-cli/issues"
+  },
+  "homepage": "https://github.com/ShattsIllia/weather-cli#readme"
+}
